@@ -1,4 +1,4 @@
-module github.com/andreaperizzato/go-config
+module github.com/draxil/go-config
 
 go 1.12
 
